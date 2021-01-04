@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+  overflow: hidden;
+  height: 100%;
+  background: rgb(99,218,173);
+  background: radial-gradient(circle, rgba(99,218,173,1) 0%, rgba(3,59,38,1) 70%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
